@@ -3,13 +3,13 @@ A Matlab implementation of our previously published work in IEEE Trans. Big Data
 
 If you are interested in this work, please kindly cite the following:
 
-    R. Wang, X. Wu, K. Chen and J. Kittler, "Multiple Riemannian Manifold-valued Descriptors based Image Set Classification with Multi-Kernel Metric Learning," 
+    R. Wang, X.-J. Wu, K.-X. Chen and J. Kittler, "Multiple Riemannian Manifold-valued Descriptors based Image Set Classification with Multi-Kernel Metric Learning," 
     in IEEE Transactions on Big Data, doi: 10.1109/TBDATA.2020.2982146.
     
     or
     
     @ARTICLE{9043722,
-    author={R. {Wang} and X. {Wu} and K. {Chen} and J. {Kittler}},
+    author={Wang, Rui and Wu, Xiao-Jun and Chen, Kai-Xuan and Kittler, Josef},
     journal={IEEE Transactions on Big Data}, 
     title={Multiple Riemannian Manifold-valued Descriptors based Image Set Classification with Multi-Kernel Metric Learning}, 
     year={2020},
